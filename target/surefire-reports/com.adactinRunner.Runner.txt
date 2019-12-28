@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.adactinRunner.Runner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.394 s <<< FAILURE! - in com.adactinRunner.Runner
+initializationError(com.adactinRunner.Runner)  Time elapsed: 0.014 s  <<< ERROR!
+java.lang.NoClassDefFoundError: gherkin/formatter/Reporter
+Caused by: java.lang.ClassNotFoundException: gherkin.formatter.Reporter
+
